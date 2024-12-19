@@ -21,4 +21,4 @@ Community-driven content contributions.
 Advanced interactivity in ManimBooks.
 Cross-platform access for seamless learning
 
-contributed by [rohilsinha10](your github link)
+contributed by [rohilsinha10][https://github.com/rohilsinha/rohilsinha10.git]
