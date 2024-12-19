@@ -64,4 +64,4 @@ ML model deployment.
 Frontend development (user interface).
 API development (content aggregation, recommendations)
 
-link to the powerpoint presentation --> [https://1drv.ms/p/c/5592ae206285b415/EVb6NX69Nz5IthVQfzuNI6QBko41bB_HLt_Gt6CBymfjTg?e=8pixuh]
+link to the powerpoint presentation --> [https://1drv.ms/p/c/5592ae206285b415/EVb6NX69Nz5IthVQfzuNI6QBko41bB_HLt_Gt6CBymfjTg?e=P6LGxq]
