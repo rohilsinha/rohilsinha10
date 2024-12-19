@@ -1,4 +1,4 @@
-# SARIT
+# SARIT: Make your own feed
 A platform to curate and personalize educational content, making quality learning accessible for all.
 
 Why
