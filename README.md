@@ -1,4 +1,4 @@
-# rohilsinha10
+# SARIT
 A platform to curate and personalize educational content, making quality learning accessible for all.
 
 Why
